@@ -14,5 +14,6 @@ This flow changes a wallpaper to a specified date and time that can be set for a
 ->How to use:
 
 Once you have downloaded the script, you will have to change the source files on the script to one that is stored on your local device. This is supposed to be the wallpaper. You can replicate the amount of wallpapers to change and what time to change in the script.
+
                       © LUCIUM™ 2021
                           Ver 1.7
